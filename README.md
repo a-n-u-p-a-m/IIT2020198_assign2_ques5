@@ -1,4 +1,3 @@
 # IIT2020198_assign2_ques5
-In this code we ask the user for three int values for hr, min and sec variables.
-We validate the input by applying the required conditions and print the valid input in the time format.
-Then we calculate and print the total no. of seconds for any input values.
+In this code we ask the user for two floating type values.
+Then we calculate the perimeter and area of a rectangle with the given inputs as its dimensions and print them.
